@@ -7,9 +7,9 @@ Plutt: Safe micro frontends without the hassle
 ==============================================
 <!-- prettier-ignore-end -->
 
-[![Version](https://img.shields.io/npm/v/juliuscc/plutt.svg?style=flat-square)](https://npmjs.org/package/plutt)
-[![Downloads/week](https://img.shields.io/npm/dw/juliuscc/plutt.svg?style=flat-square)](https://npmjs.org/package/plutt)
-[![License](https://img.shields.io/npm/l/juliuscc/plutt.svg?style=flat-square)](https://github.com/juliuscc/plutt/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/plutt.svg?style=flat-square)](https://npmjs.org/package/plutt)
+[![Downloads/week](https://img.shields.io/npm/dw/plutt.svg?style=flat-square)](https://npmjs.org/package/plutt)
+[![License](https://img.shields.io/npm/l/plutt.svg?style=flat-square)](https://github.com/juliuscc/plutt/blob/master/package.json)
 
 <!-- toc -->
 * [🗒 Description](#-description)
