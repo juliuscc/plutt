@@ -16,15 +16,6 @@ jobs:
       - run: npm test
         env:
           CI: true
-      - run: 'echo ${{ github.ref }}'
-        name: Add ssh deploy key (for semantic-release)
-        env:
-          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
-          GIT_SSH_COMMAND: 'ssh -o StrictHostKeyChecking=no'
-      - run: |
-          mkdir ~/.ssh
-          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
       - run: npm run semantic-release
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
