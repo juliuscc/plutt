@@ -132,4 +132,4 @@ OPTIONS
 
 # 🐢 Learn More
 
-This project is developed together with a thesis, that will finish this summer. When the thesis is published a link to the thesis will be available here to learn more about Plutt.
+This project is developed together with a thesis, that will finish this summer. A link to the thesis will be published here when the thesis is finished.
