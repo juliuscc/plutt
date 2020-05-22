@@ -7,9 +7,9 @@ Plutt: Safe micro frontends without the hassle
 ==============================================
 <!-- prettier-ignore-end -->
 
-[![Version](https://img.shields.io/npm/v/@digitalroute/plutt.svg?style=flat-square)](https://npmjs.org/package/@digitalroute/plutt)
-[![Downloads/week](https://img.shields.io/npm/dw/@digitalroute/plutt.svg?style=flat-square)](https://npmjs.org/package/@digitalroute/plutt)
-[![License](https://img.shields.io/npm/l/@digitalroute/plutt.svg?style=flat-square)](https://github.com/digitalroute/plutt/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/juliuscc/plutt.svg?style=flat-square)](https://npmjs.org/package/juliuscc/plutt)
+[![Downloads/week](https://img.shields.io/npm/dw/juliuscc/plutt.svg?style=flat-square)](https://npmjs.org/package/juliuscc/plutt)
+[![License](https://img.shields.io/npm/l/juliuscc/plutt.svg?style=flat-square)](https://github.com/juliuscc/plutt/blob/master/package.json)
 
 <!-- toc -->
 * [🗒 Description](#-description)
@@ -36,11 +36,11 @@ Plutt is a build tool that enables developers to generate micro frontends from f
 
 <!-- usage -->
 ```sh-session
-$ npm install -g @digitalroute/plutt
+$ npm install -g plutt
 $ plutt COMMAND
 running command...
 $ plutt (-v|--version|version)
-@digitalroute/plutt/0.0.0-semantically-released darwin-x64 node-v13.10.1
+plutt/0.0.0-semantically-released darwin-x64 node-v13.10.1
 $ plutt --help [COMMAND]
 USAGE
   $ plutt COMMAND
