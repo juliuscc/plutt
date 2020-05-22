@@ -27,7 +27,7 @@ Plutt is a build tool that enables developers to generate micro frontends from f
 
 # ✨ Features
 
-- **Access transparency:** Consuming applications use the micro frontends as regular components, without having to know that it is a micro frontend.
+- **Access Transparency:** Consuming applications use the micro frontends as regular components, without having to know that it is a micro frontend.
 - **Automatic Version Safety:** At run-time Plutt will always upgrade to the latest version of a micro frontend, as long as it is non-breaking. This is done by supporting lock-step deployments.
 - **Framework Agnostic:** Plutt applications can be consumed by any framework. Currently Plutt supports React and Vue, but it is easy to extend Plutt to support more frameworks.
 - **Type Safety:** Micro frontends can be consumed with type safety. Any props that are used incorrectly can be found at compile-time.
