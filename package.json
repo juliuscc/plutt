@@ -1,5 +1,5 @@
 {
-  "name": "@digitalroute/plutt",
+  "name": "plutt",
   "version": "0.0.0-semantically-released",
   "author": "Julius Recep Colliander Celik",
   "bin": {
@@ -152,11 +152,4 @@
       "git add"
     ]
   },
-  "release": {
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      "@semantic-release/npm"
-    ]
-  }
 }
